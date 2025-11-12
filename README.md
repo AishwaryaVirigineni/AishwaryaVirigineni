@@ -1,21 +1,40 @@
-# Hi there, I'm Aishwarya 👋  
+# Hi, I'm Aishwarya 👋  
+
+### 👩‍🎓 About Me
 
 🎓 MS in Artificial Intelligence @ University at Buffalo  
-💼 ML Intern @ New Era Cap · Former SDE II @ AppViewX   
-🚀 Exploring the intersection of **AI Agents, ML Infrastructure, and Applied NLP**  
-🔍 Actively seeking **AI/ML/NLP, data, and software engineering roles** where I can leverage my skills in **machine learning, deep learning, and data science** to create meaningful impact.  
+💼 ML Intern @ New Era Cap | ex-SDE II @ AppViewX  
+🚀 Exploring AI Agents, ML Infra, and Applied NLP  
 
 ---
 
-👩‍💻 I’m passionate about building **real-world AI systems** that combine engineering precision with human-centered design.  
-My experience spans enterprise platforms and academic research — from developing **multi-agent LLM chatbots**, **certificate automation systems**, and contributing to **post-quantum cryptography (PQC)** initiatives at AppViewX, to designing **supply-chain forecasting pipelines** at New Era Cap, and **personalized LLM-powered conversational agents** at UB.  
-Across all projects, I focus on **scalable, data-driven architectures** that make technology more adaptive, empathetic, and impactful.
+### 🚀 What I Do  
+I specialize in **machine learning engineering**, **LLM applications**, and **scalable AI infrastructure**.  
+My work spans:  
+- **Production AI Systems:** Multi-agent chatbots, RAG pipelines, and LLM fine-tuning  
+- **ML Infrastructure:** End-to-end ML pipelines, MLOps, and cloud deployment (AWS / Azure / GCP)  
+- **Applied NLP:** Conversational AI, assistive communication tools, and domain-specific language models  
 
-🌱 Currently exploring **MCP**, **Azure ML**, and **Snowflake-powered ML Ops**, while experimenting with **LLM fine-tuning**, **RAG architectures**, and **agentic design** for next-generation AI systems.
+---
 
-🤝 **Open for Collaborations**  
+### 💼 Recent Work  
+**@ New Era Cap** — Building Machine Learning forecasting pipelines for supply chain optimization using Azure ML, Snowflake, and ensemble modeling  
+**@ AppViewX** — Developed production LLM chatbots with LangChain/LangGraph, certificate automation systems, architected FastAPI microservices, and contributed to post-quantum cryptography
+**@ UB Research** — Fine-tuned Mistral-7B /GPT-4o-mini for personalized conversational AI, implemented RAG with vector databases, and deployed voice-enabled interfaces  
+
+---
+
+### 🌱 Currently Exploring  
+- **Agentic AI Systems** with MCP, LangGraph, and multi-agent frameworks  
+- **MLOps at Scale** using Azure ML, MLflow, and Snowflake  
+- **Advanced RAG architectures** and LLM optimization techniques
+  
+---
+
+### 🤝 Let's Collaborate  
 I love collaborating on projects that push the boundaries of **AI, ML, NLP, and intelligent infrastructure** — whether it’s LLM applications, data engineering, or scalable agentic systems.  
-Let’s connect if you’re hiring or building something exciting!  
+
+💡 Actively seeking **full-time opportunities** in **ML Engineering, AI Research, Software Engineering, Data Science, and Data Engineering** roles where I can build impactful AI products.
 
 📫 [LinkedIn](https://linkedin.com/in/aishwarya-virigineni) · [Portfolio](https://your-portfolio-link) · [Email](mailto:avirigin@buffalo.edu)
 
