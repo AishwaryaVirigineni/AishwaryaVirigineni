@@ -35,7 +35,7 @@ My work spans:
 ---
 
 ### 🤝 Let's Collaborate  
-I love collaborating on projects that push thLLMs, ML infrastructure, NLP, or agentic systems.
+I love collaborating on projects that push LLMs, ML infrastructure, NLP, or agentic systems.
 
 📫 [LinkedIn](https://linkedin.com/in/aishwarya-virigineni) · [Email](mailto:avirigin@buffalo.edu)
 
