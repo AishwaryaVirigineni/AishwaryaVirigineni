@@ -11,7 +11,8 @@ Currently looking for full-time roles in ML Engineering, AI/Software Engineering
 ---
 
 ### 🚀 What I Do  
-I specialize in **machine learning engineering**, **LLM applications**, and **scalable AI infrastructure**.  
+I specialize in **machine learning engineering**, **LLM applications**, and **scalable AI infrastructure**. 
+
 My work spans:  
 - **Production AI Systems:** Multi-agent chatbots, RAG pipelines, and LLM fine-tuning  
 - **ML Infrastructure:** End-to-end ML pipelines, MLOps, and cloud deployment (AWS / Azure / GCP)  
