@@ -6,6 +6,8 @@
 💼 ML Intern @ New Era Cap | ex-SDE II @ AppViewX  
 🚀 Exploring AI Agents, ML Infra, and Applied NLP  
 
+Currently looking for full-time roles in ML Engineering, AI/Software Engineering, or Data Science, where I can apply my experience to build practical and scalable solutions.
+
 ---
 
 ### 🚀 What I Do  
@@ -20,7 +22,7 @@ My work spans:
 ### 💼 Recent Work  
 **@ New Era Cap** — Building Machine Learning forecasting pipelines for supply chain optimization using Azure ML, Snowflake, and ensemble modeling  
 **@ UB Research** — Fine-tuned Mistral-7B /GPT-4o-mini for personalized conversational AI, implemented RAG with vector databases, and deployed voice-enabled interfaces  
-**@ AppViewX** — Developed production LLM chatbots with LangChain/LangGraph, certificate automation systems, architected FastAPI microservices, and contributed to post-quantum cryptography 
+**@ AppViewX** — Developed production LLM chatbots with LangChain/LangGraph, certificate automation systems, architected FastAPI microservices, and contributed to post-quantum cryptography   
 **@ Honeywell Aerospace** — Engineered a domain-specific **text-to-speech system** for Air Traffic Control (ATC) communications to enhance clarity and pronunciation accuracy in cockpit communication.  
 
 ---
@@ -35,7 +37,6 @@ My work spans:
 ### 🤝 Let's Collaborate  
 I love collaborating on projects that push thLLMs, ML infrastructure, NLP, or agentic systems.
 
-Currently looking for full-time roles in ML Engineering, AI/Software Engineering, or Data Science where I can build things that matter.
 📫 [LinkedIn](https://linkedin.com/in/aishwarya-virigineni) · [Portfolio](https://your-portfolio-link) · [Email](mailto:avirigin@buffalo.edu)
 
 
