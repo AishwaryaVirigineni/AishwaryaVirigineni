@@ -33,10 +33,9 @@ My work spans:
 ---
 
 ### 🤝 Let's Collaborate  
-I love collaborating on projects that push the boundaries of **AI, ML, NLP, and intelligent infrastructure** — whether it’s LLM applications, data engineering, or scalable agentic systems.  
+I love collaborating on projects that push thLLMs, ML infrastructure, NLP, or agentic systems.
 
-💡 Actively seeking **full-time opportunities** in **ML Engineering, AI Research, Software Engineering, Data Science, and Data Engineering** roles where I can build impactful AI products.
-
+Currently looking for full-time roles in ML Engineering, AI/Software Engineering, or Data Science where I can build things that matter.
 📫 [LinkedIn](https://linkedin.com/in/aishwarya-virigineni) · [Portfolio](https://your-portfolio-link) · [Email](mailto:avirigin@buffalo.edu)
 
 
