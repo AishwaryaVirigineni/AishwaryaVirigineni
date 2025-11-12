@@ -1,26 +1,23 @@
 # Hi there, I'm Aishwarya 👋  
 
-
-# Hi there, I'm Aishwarya 👋
-
 🎓 MS in Artificial Intelligence @ University at Buffalo  
-💼 ML Intern @ New Era Cap | Former SDE II @ AppViewX
-🚀 Exploring the intersection of AI Agents, ML Infrastructure, and Applied NLP.
-I’m actively seeking **AI/ML/NLP, data, and software engineering roles** where I can leverage my skills in **machine learning, deep learning, and data science** to create meaningful impact.  
+💼 ML Intern @ New Era Cap · Former SDE II @ AppViewX   
+🚀 Exploring the intersection of **AI Agents, ML Infrastructure, and Applied NLP**  
+🔍 Actively seeking **AI/ML/NLP, data, and software engineering roles** where I can leverage my skills in **machine learning, deep learning, and data science** to create meaningful impact.  
 
 ---
 
-👩‍💻 I’m passionate about building real-world AI systems that blend **engineering precision and human context**.  
-My past work spans enterprise platforms and research labs — from developing **multi-agent LLM chatbots**, **certificate automation systems**, and contributing to **post-quantum cryptography (PQC)** initiatives at AppViewX, to **supply-chain forecasting pipelines** at New Era Cap, and **personalized LLM-powered conversational agents** at UB.  
-Across every project, I focus on designing scalable, data-driven solutions that make technology more adaptive and empathetic.
+👩‍💻 I’m passionate about building **real-world AI systems** that combine engineering precision with human-centered design.  
+My experience spans enterprise platforms and academic research — from developing **multi-agent LLM chatbots**, **certificate automation systems**, and contributing to **post-quantum cryptography (PQC)** initiatives at AppViewX, to designing **supply-chain forecasting pipelines** at New Era Cap, and **personalized LLM-powered conversational agents** at UB.  
+Across all projects, I focus on **scalable, data-driven architectures** that make technology more adaptive, empathetic, and impactful.
 
-🌱 Currently exploring **MCP, Azure ML, and Snowflake-powered ML Ops**, while experimenting with **LLM fine-tuning, RAG architectures,** and **agentic design** for collaborative AI systems.
+🌱 Currently exploring **MCP**, **Azure ML**, and **Snowflake-powered ML Ops**, while experimenting with **LLM fine-tuning**, **RAG architectures**, and **agentic design** for next-generation AI systems.
 
 🤝 **Open for Collaborations**  
-I'm always interested in teaming up on projects that push the boundaries of **AI, ML, NLP, and intelligent infrastructure** — whether it’s LLM applications, data engineering, or scalable agentic systems.  
+I love collaborating on projects that push the boundaries of **AI, ML, NLP, and intelligent infrastructure** — whether it’s LLM applications, data engineering, or scalable agentic systems.  
 Let’s connect if you’re hiring or building something exciting!  
 
-📫 [LinkedIn](https://linkedin.com/in/aishwarya-virigineni) · [Portfolio](https://your-portfolio-link) · [Email](mailto:avirigin@buffalo.edu)  
+📫 [LinkedIn](https://linkedin.com/in/aishwarya-virigineni) · [Portfolio](https://your-portfolio-link) · [Email](mailto:avirigin@buffalo.edu)
 
 
 # Tech Stack:
