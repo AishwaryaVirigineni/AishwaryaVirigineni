@@ -3,7 +3,7 @@
 ### 👩‍🎓 About Me
 
 🎓 MS in Artificial Intelligence @ University at Buffalo  
-💼 ML Intern @ New Era Cap | ex-SDE II @ AppViewX  
+💼 ML Intern @ New Era Cap | Ex-SDE @ AppViewX  
 🚀 Exploring AI Agents, ML Infra, and Applied NLP  
 
 Currently looking for full-time roles in ML Engineering, AI/Software Engineering, or Data Science, where I can apply my experience to build practical and scalable solutions.
