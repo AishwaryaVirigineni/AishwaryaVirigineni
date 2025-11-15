@@ -1,4 +1,4 @@
-# Hey there, Aishwarya here 👋  
+# Hey there, I'm Aishwarya 👋  
 
 ### 👩‍🎓 About Me
 
