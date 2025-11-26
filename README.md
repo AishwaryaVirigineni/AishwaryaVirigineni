@@ -28,6 +28,7 @@ My work spans:
 **@ UB Research** — Fine-tuned LLM's for personalized conversational AI, implemented RAG with vector databases, and deployed voice-enabled interfaces.  
 
 **@ AppViewX** — Developed production multi-agent chatbot with LangChain/LangGraph & LLMs, scalable backend services (REST/SOAP APIs, microservices), certificate automation systems, and contributed to post-quantum cryptography.
+
 **@ Honeywell Aerospace** — Engineered a domain-specific text-to-speech system for Air Traffic Control communications to enhance clarity and pronunciation accuracy in cockpit communication.  
 
 ---
