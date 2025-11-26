@@ -6,7 +6,7 @@
 - ML Intern @ New Era Cap | Ex-SDE @ AppViewX  
 - Exploring AI Agents, ML Infra, and Applied NLP  
 
-Looking for full-time Software Engineering, AI/ML Engineering, or Data Science roles where I can apply my skills across the stack, whether that's architecting backend services, shipping ML features, or building data infrastructure.
+Looking for full-time Software Engineering, AI/ML Engineering, or Data Science roles where I can apply my skills across the stack, whether it's architecting backend systems, shipping ML-driven features, or building data pipelines.
 
 ---
 
@@ -15,8 +15,8 @@ I specialize in **machine learning engineering**, **software development**, and 
 
 My work spans:  
 - **Production AI Systems:** Multi-agent chatbots, RAG pipelines, LLM fine-tuning, and backend services  
-- **Software & Backend Development:** RESTful/SOAP APIs, microservices architecture, concurrent systems, and full SDLC practices  
-- **Infrastructure & Deployment:** End-to-end ML pipelines, MLOps, and cloud platforms (AWS / Azure / GCP)  
+- **Software & Backend Development:** RESTful/SOAP APIs, microservices architecture, concurrent systems, and full software development life cycle practices  
+- **Infrastructure & Deployment:** End-to-end ML & Data pipelines, MLOps, and cloud platforms (AWS / Azure / GCP)  
 - **Applied NLP:** Conversational AI, assistive communication tools, machine language translation, and domain-specific language models
 
 ---
@@ -39,7 +39,7 @@ My work spans:
 ---
 
 ### 🤝 Let's Collaborate  
-I enjoy collaborating on projects that involve **agentic systems** and **Natural Language Processing**.
+I enjoy collaborating on projects that involve **Agentic Systems** and **Natural Language Processing**.
 
 📫 [LinkedIn](https://linkedin.com/in/aishwarya-virigineni) · [Email](mailto:avirigin@buffalo.edu)
 
