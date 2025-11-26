@@ -11,14 +11,13 @@ Looking for full-time Software Engineering, AI/ML Engineering, or Data Science r
 ---
 
 ### 🚀 What I Do  
-I specialize in **machine learning engineering**, **software development**, **LLM applications**, and **scalable infrastructure**.  
+I specialize in **machine learning engineering**, **software development**, and **scalable AI systems**.  
 
 My work spans:  
-- **Production AI & Software Systems:** Multi-agent chatbots, RAG pipelines, LLM fine-tuning, and backend services  
+- **Production AI Systems:** Multi-agent chatbots, RAG pipelines, LLM fine-tuning, and backend services  
 - **Software & Backend Development:** RESTful/SOAP APIs, microservices architecture, concurrent systems, and full SDLC practices  
-- **ML Infrastructure & Engineering:** End-to-end pipelines, distributed systems, MLOps, and cloud deployment (AWS / Azure / GCP)  
-- **Applied NLP:** Conversational AI, assistive communication tools, and domain-specific language models
-
+- **Infrastructure & Deployment:** End-to-end ML pipelines, MLOps, and cloud platforms (AWS / Azure / GCP)  
+- **Applied NLP:** Conversational AI, assistive communication tools, Machine Language Translation, and domain-specific language models
 
 ---
 
@@ -34,14 +33,13 @@ My work spans:
 ---
 
 ### 🌱 Currently Exploring  
-- **Agentic AI Systems** with MCP, LangGraph, and multi-agent frameworks  
-- **MLOps at Scale** using Azure ML, MLflow, and Snowflake  
-- **Advanced RAG architectures** and LLM optimization techniques
+- Agentic AI systems with MCP, LangGraph, and multi-agent frameworks  
+- MLOps at scale using Azure ML, MLflow, and Snowflake  
   
 ---
 
 ### 🤝 Let's Collaborate  
-I love collaborating on projects that push LLMs, ML infrastructure, NLP, or agentic systems.
+I enjoy collaborating on projects that involve **agentic systems** and **Natural Language Processing**.
 
 📫 [LinkedIn](https://linkedin.com/in/aishwarya-virigineni) · [Email](mailto:avirigin@buffalo.edu)
 
