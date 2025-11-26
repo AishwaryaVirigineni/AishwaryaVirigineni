@@ -22,7 +22,9 @@ My work spans:
 
 ### 💼 Recent Work  
 **@ New Era Cap** — Building Machine Learning forecasting pipelines for supply chain optimization using Azure ML, Snowflake, and ensemble modeling.  
+
 **@ UB Research** — Fine-tuned LLM's for personalized conversational AI, implemented RAG with vector databases, and deployed voice-enabled interfaces.  
+
 **@ AppViewX** — Developed production LLM chatbots with LangChain/LangGraph, certificate automation systems, architected FastAPI microservices, and contributed to post-quantum cryptography.    
 
 **@ Honeywell Aerospace** — Engineered a domain-specific text-to-speech system for Air Traffic Control communications to enhance clarity and pronunciation accuracy in cockpit communication.  
