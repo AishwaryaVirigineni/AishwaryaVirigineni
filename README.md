@@ -17,7 +17,7 @@ My work spans:
 - **Production AI Systems:** Multi-agent chatbots, RAG pipelines, LLM fine-tuning, and backend services  
 - **Software & Backend Development:** RESTful/SOAP APIs, microservices architecture, concurrent systems, and full SDLC practices  
 - **Infrastructure & Deployment:** End-to-end ML pipelines, MLOps, and cloud platforms (AWS / Azure / GCP)  
-- **Applied NLP:** Conversational AI, assistive communication tools, Machine Language Translation, and domain-specific language models
+- **Applied NLP:** Conversational AI, assistive communication tools, machine language translation, and domain-specific language models
 
 ---
 
