@@ -11,12 +11,14 @@ Looking for full-time Software Engineering, AI/ML Engineering, or Data Science r
 ---
 
 ### 🚀 What I Do  
-I specialize in **machine learning engineering**, **LLM applications**, **software development** and **scalable infrastructure**. 
+I specialize in **machine learning engineering**, **software development**, **LLM applications**, and **scalable infrastructure**.  
 
 My work spans:  
-- **Production AI & Software Systems:** Multi-agent chatbots, RAG pipelines, LLM fine-tuning, Backend services, and API design
-- **ML Infrastructure & Engineering:** End-to-end pipelines, Distributed Systems, MLOps, and Cloud deployment (AWS / Azure / GCP)
-- **Applied NLP:** Conversational AI, assistive communication tools, and domain-specific language models  
+- **Production AI & Software Systems:** Multi-agent chatbots, RAG pipelines, LLM fine-tuning, and backend services  
+- **Software & Backend Development:** RESTful/SOAP APIs, microservices architecture, concurrent systems, and full SDLC practices  
+- **ML Infrastructure & Engineering:** End-to-end pipelines, distributed systems, MLOps, and cloud deployment (AWS / Azure / GCP)  
+- **Applied NLP:** Conversational AI, assistive communication tools, and domain-specific language models
+
 
 ---
 
@@ -25,8 +27,7 @@ My work spans:
 
 **@ UB Research** — Fine-tuned LLM's for personalized conversational AI, implemented RAG with vector databases, and deployed voice-enabled interfaces.  
 
-**@ AppViewX** — Developed production LLM chatbots with LangChain/LangGraph, certificate automation systems, architected FastAPI microservices, and contributed to post-quantum cryptography.    
-
+**@ AppViewX** — Developed production multi-agent chatbot with LangChain/LangGraph & LLMs, scalable backend services (REST/SOAP APIs, microservices), certificate automation systems, and contributed to post-quantum cryptography.
 **@ Honeywell Aerospace** — Engineered a domain-specific text-to-speech system for Air Traffic Control communications to enhance clarity and pronunciation accuracy in cockpit communication.  
 
 ---
