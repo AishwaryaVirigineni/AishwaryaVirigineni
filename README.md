@@ -6,16 +6,16 @@
 💼 ML Intern @ New Era Cap | Ex-SDE @ AppViewX  
 🚀 Exploring AI Agents, ML Infra, and Applied NLP  
 
-Currently looking for full-time roles in ML Engineering, AI/Software Engineering, or Data Science, where I can apply my experience to build practical and scalable solutions.
+Looking for full-time Software Engineering, AI/ML Engineering, or Data Science roles where I can apply my skills across the stack—whether that's architecting backend services, shipping ML features, or building data infrastructure.
 
 ---
 
 ### 🚀 What I Do  
-I specialize in **machine learning engineering**, **LLM applications**, and **scalable AI infrastructure**. 
+I specialize in **machine learning engineering**, **LLM applications**, **software development** and **scalable infrastructure**. 
 
 My work spans:  
-- **Production AI Systems:** Multi-agent chatbots, RAG pipelines, and LLM fine-tuning  
-- **ML Infrastructure:** End-to-end ML pipelines, MLOps, and cloud deployment (AWS / Azure / GCP)  
+- **Production AI & Software Systems:** Multi-agent chatbots, RAG pipelines, LLM fine-tuning, Backend services, and API design
+- **ML Infrastructure & Engineering:** End-to-end pipelines, Distributed Systems, MLOps, and Cloud deployment (AWS / Azure / GCP)
 - **Applied NLP:** Conversational AI, assistive communication tools, and domain-specific language models  
 
 ---
