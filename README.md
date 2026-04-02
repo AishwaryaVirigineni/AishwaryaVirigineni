@@ -26,15 +26,6 @@ I've shipped AI agents that onboard engineers, forecasting pipelines that drive 
 
 ---
 
-### 🔨 What I Build
-
-- **AI Agents & LLM Systems** — Multi-agent pipelines with LangGraph, RAG with vector DBs, LLM fine-tuning, prompt engineering at scale
-- **Backend & Distributed Systems** — REST/SOAP APIs, microservices, event-driven architectures with Kafka/Flink, high-throughput database optimization
-- **ML Pipelines & Infrastructure** — End-to-end training/serving pipelines, MLOps with MLflow, cloud-native deployment on AWS/Azure/GCP
-- **Applied Research** — Privacy-preserving ML, federated learning, wireless sensing, conversational AI for accessibility
-
----
-
 ### 🌱 Currently Exploring
 
 - Agentic AI systems with MCP, LangGraph, and multi-agent orchestration
