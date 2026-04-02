@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI+%2F+ML+Engineer+%7C+Software+Engineer;Building+Multi-Agent+AI+Systems;Shipping+Scalable+Backend+Services;MS+Artificial+Intelligence+%40+UB" alt="Typing SVG" /></a>
+</p>
+
 # Hey there, I'm Aishwarya 👋
 
 ### 👩‍🎓 About Me
@@ -28,15 +32,22 @@ I've shipped AI agents that onboard engineers, forecasting pipelines that drive 
 
 ### 🌱 Currently Exploring
 
-- AI Safety & Alignment — RLHF, red-teaming, guardrails, constitutional AI
-- Knowledge Graphs + LLMs — GraphRAG, neo4j + embeddings, hybrid retrieval
-- Synthetic data generation — using LLMs to generate training data, data augmentation at scale
+- AI Safety & Alignment — RLHF, red-teaming, guardrails, and constitutional AI
+- Knowledge Graphs + LLMs — GraphRAG, Neo4j + embeddings, and hybrid retrieval
+- Synthetic Data Generation — using LLMs for training data generation and data augmentation at scale
 
 ---
 
 ### 🤝 Let's Collaborate
 
 I enjoy working on projects involving **agentic systems**, **NLP**, and **applied ML research**. Always happy to chat about AI engineering, system design, or research ideas.
+
+---
+
+### 📜 Certifications
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) **AWS Certified Machine Learning Engineer – Associate**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) **AWS Certified Cloud Practitioner**
 
 ---
 
