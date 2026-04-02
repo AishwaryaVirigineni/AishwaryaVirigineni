@@ -28,9 +28,10 @@ I've shipped AI agents that onboard engineers, forecasting pipelines that drive 
 
 ### 🌱 Currently Exploring
 
-- Agentic AI systems with MCP, LangGraph, and multi-agent orchestration
-- MLOps at scale with Azure ML, MLflow, and Snowflake
-- Privacy-preserving deep learning for real-world sensing applications
+- AI Safety & Alignment — RLHF, red-teaming, guardrails, constitutional AI
+- Knowledge Graphs + LLMs — GraphRAG, neo4j + embeddings, hybrid retrieval
+- Synthetic data generation — using LLMs to generate training data, data augmentation at scale
+this is nice, replace
 
 ---
 
